@@ -1,0 +1,24 @@
+let userName="Sabeya "
+console.log(userName) 
+console.log(typeof userName) 
+
+let organization='HCL'
+console.log(organization) 
+console.log(typeof organization) 
+
+let contactNo =9840657656
+contactNo=74456455656
+
+console.log(contactNo) 
+console.log(typeof contactNo) 
+
+let knowsAutomation
+knowsAutomation=true
+console.log(knowsAutomation) 
+console.log(typeof knowsAutomation ) 
+
+let usesPlaywright
+console.log(usesPlaywright) 
+console.log(typeof usesPlaywright) 
+
+console.log(userName, "/n", organization,"/n",contactNo, "/n", knowsAutomation,"/n", usesPlaywright)
